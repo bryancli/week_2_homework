@@ -5,3 +5,50 @@
   /* Make the invisible visible */
   border: thin red solid;
 }
+
+.column-one-third {
+  float: left;
+  width: 33.3%;
+  padding: 10px 0 10px 0;
+}
+
+.column-two-third {
+  float: left;
+  width: 66.6%;
+  padding: 10px 0 10px 0;
+}
+
+.column-one-fourth {
+  float: left;
+  width: 25%;
+  padding: 10px 0 10px 0;
+}
+
+.column-row {
+  float: left;
+  width: 100%;
+  padding: 10px 0 10px 0;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.screenshot {
+  /*width: 30%;*/
+}
+
+.tile {
+  height: 200px;
+  background-color: #c8c8c8;
+}
+
+.button {
+  height: 30px;
+  width: 150px;
+  color: white;
+  background: blue;
+  text-align: center;
+  border-radius: 15px;
+  padding: 5px 10px 5px 10px;
+}
