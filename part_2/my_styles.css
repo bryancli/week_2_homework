@@ -40,15 +40,15 @@
 
 .tile {
   height: 200px;
-  background-color: #c8c8c8;
+  background-color: #d3d3d3;
 }
 
 .button {
   height: 30px;
   width: 150px;
-  color: white;
-  background: blue;
+  color: #FFFFFF;
+  background: #0000FF;
   text-align: center;
-  border-radius: 15px;
-  padding: 5px 10px 5px 10px;
+  border-radius: 20px;
+  padding: 5px 15px 10px 15px;
 }
